@@ -1,0 +1,14 @@
+# Django
+producthub/venv/
+producthub/__pycache__/
+producthub/*.pyc
+producthub/db.sqlite3
+producthub/media/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+
+# Env
+.env
+*.env
